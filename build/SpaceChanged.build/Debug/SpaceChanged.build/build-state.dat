@@ -1,0 +1,223 @@
+TSpaceChanged
+v7
+r0
+t296769227.760549
+cCheck dependencies
+cProcessInfoPlistFile /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Info.plist SpaceChanged-Info.plist
+cCopyStringsFile /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch.gch SpaceChanged_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/main.o /Users/Patrick/Desktop/SpaceChanged/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChangedAppDelegate.o /Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged normal x86_64
+cTouch /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF5F0B000000000000000EE
+t1274409136
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004BE2C051000000000000040A
+t1273151569
+s1034
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ScreenSaver.framework/Headers/ScreenSaver.h
+c000000004BE29FB200000000000000B9
+t1273143218
+s185
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Patrick/Desktop/SpaceChanged/CGSPrivate.h
+c00000000499A92CA000000000000382F
+t1234866890
+s14383
+i<Carbon/Carbon.h>
+
+N/Users/Patrick/Desktop/SpaceChanged/English.lproj/InfoPlist.strings
+c000000004C001BA7000000000000002D
+t1275075495
+s45
+
+N/Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib
+c000000004C001F49000000000002DE24
+t1275076425
+s187940
+
+N/Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.h
+c000000004C001DDA0000000000000219
+t1275076058
+s537
+i<Cocoa/Cocoa.h>
+i"CGSPrivate.h"
+
+N/Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m
+c000000004C001F29000000000000050B
+t1275076393
+s1291
+i"SpaceChangedAppDelegate.h"
+
+N/Users/Patrick/Desktop/SpaceChanged/SpaceChanged_Prefix.pch
+c000000004C001BA7000000000000009B
+t1275075495
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app
+t1275076427
+s102
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Info.plist
+t1275075618
+s901
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged
+t1275076395
+s15992
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/PkgInfo
+t1275075618
+s8
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1275075618
+s92
+
+N/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/MainMenu.nib
+t1275076427
+s35638
+
+N/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChanged.LinkFileList
+c000000004C001C2100000000000000F9
+t1275075617
+s249
+
+N/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChangedAppDelegate.o
+t1275076395
+s28776
+
+N/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/main.o
+t1275075622
+s4984
+
+N/Users/Patrick/Desktop/SpaceChanged/main.m
+c000000004C001BA70000000000000108
+t1275075495
+s264
+i<Cocoa/Cocoa.h>
+
+N/var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch.gch
+t1275075621
+s54265616
+
+NSpaceChanged-Info.plist
+c000000004C001BA700000000000003EA
+t1275075495
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296769227#296769227#0(0"0(0#1#0"8622622048#0"0#
+
+CCompileC build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChangedAppDelegate.o /Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296769194.864778
+e296769195.152862
+r1
+xCompileC
+xbuild/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChangedAppDelegate.o
+x/Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m296769194#296769195#0(0"0(0#0#61"/Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m8617711520#1555"    cd /Users/Patrick/Desktop/SpaceChanged    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-generated-files.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-own-target-headers.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-all-target-headers.hmap -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-project-headers.hmap -F/Users/Patrick/Desktop/SpaceChanged/build/Debug -I/Users/Patrick/Desktop/SpaceChanged/build/Debug/include -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources/x86_64 -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources -include /var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch -c /Users/Patrick/Desktop/SpaceChanged/SpaceChangedAppDelegate.m -o /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChangedAppDelegate.o0#
+
+CCompileC build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/main.o /Users/Patrick/Desktop/SpaceChanged/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296768421.952536
+e296768422.257893
+r1
+xCompileC
+xbuild/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/main.o
+x/Users/Patrick/Desktop/SpaceChanged/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Patrick/Desktop/SpaceChanged/main.m296768421#296768422#0(0"0(0#0#42"/Users/Patrick/Desktop/SpaceChanged/main.m8607446848#1517"    cd /Users/Patrick/Desktop/SpaceChanged    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-generated-files.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-own-target-headers.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-all-target-headers.hmap -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-project-headers.hmap -F/Users/Patrick/Desktop/SpaceChanged/build/Debug -I/Users/Patrick/Desktop/SpaceChanged/build/Debug/include -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources/x86_64 -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources -include /var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch -c /Users/Patrick/Desktop/SpaceChanged/main.m -o /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib
+s296769227.380634
+e296769227.757111
+r1
+xCompileXIB
+x/Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib296769227#296769227#0(0"0(0#0#62"/Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib8607387008#360"    cd /Users/Patrick/Desktop/SpaceChanged    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Patrick/Desktop/SpaceChanged/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s296768418.013861
+e296768418.233083
+r1
+xCopyStringsFile
+x/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings296768418#296768418#0(0"0(0#0#67"/Users/Patrick/Desktop/SpaceChanged/English.lproj/InfoPlist.strings8608362944#364"    cd /Users/Patrick/Desktop/SpaceChanged    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged normal x86_64
+s296769195.152958
+e296769195.190383
+r1
+xLd
+x/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged296769195#296769195#0(0"0(0#0#0"8623760896#552"    cd /Users/Patrick/Desktop/SpaceChanged    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Patrick/Desktop/SpaceChanged/build/Debug -F/Users/Patrick/Desktop/SpaceChanged/build/Debug -filelist /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/Objects-normal/x86_64/SpaceChanged.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/MacOS/SpaceChanged0#
+
+CProcessInfoPlistFile /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Info.plist SpaceChanged-Info.plist
+s296768417.996601
+e296768418.013751
+r1
+xProcessInfoPlistFile
+x/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Info.plist
+xSpaceChanged-Info.plist
+lSLF07#2@31"Process SpaceChanged-Info.plist296768417#296768418#0(0"0(0#0#59"/Users/Patrick/Desktop/SpaceChanged/SpaceChanged-Info.plist29273685347336292#316"    cd /Users/Patrick/Desktop/SpaceChanged    builtin-infoPlistUtility SpaceChanged-Info.plist -genpkginfo /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch.gch SpaceChanged_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296768418.407806
+e296768421.952300
+r1
+xProcessPCH
+x/var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch.gch
+xSpaceChanged_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SpaceChanged_Prefix.pch296768418#296768421#0(0"0(0#0#59"/Users/Patrick/Desktop/SpaceChanged/SpaceChanged_Prefix.pch8608673152#1421"    cd /Users/Patrick/Desktop/SpaceChanged    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-generated-files.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-own-target-headers.hmap -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-all-target-headers.hmap -iquote /Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/SpaceChanged-project-headers.hmap -F/Users/Patrick/Desktop/SpaceChanged/build/Debug -I/Users/Patrick/Desktop/SpaceChanged/build/Debug/include -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources/x86_64 -I/Users/Patrick/Desktop/SpaceChanged/build/SpaceChanged.build/Debug/SpaceChanged.build/DerivedSources -c /Users/Patrick/Desktop/SpaceChanged/SpaceChanged_Prefix.pch -o /var/folders/bF/bFKz6JWoHRmpB3T9rmz41++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpaceChanged_Prefix-gyxmvyugsndxsndmmovqbbjlfrwt/SpaceChanged_Prefix.pch.gch0#
+
+CTouch /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app
+s296769227.757554
+e296769227.760513
+r1
+xTouch
+x/Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app
+lSLF07#2@70"Touch /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app296769227#296769227#0(0"0(0#0#0"8617555936#130"    cd /Users/Patrick/Desktop/SpaceChanged    /usr/bin/touch -c /Users/Patrick/Desktop/SpaceChanged/build/Debug/SpaceChanged.app0#
+
